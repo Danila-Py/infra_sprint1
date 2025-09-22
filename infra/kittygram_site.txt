@@ -1,0 +1,6 @@
+IP: 89.169.189.115;
+name_taski: https://taski-homework.ddns.net;
+name_kittygram: https://infrasprint1danil.ddns.net;
+login: danila;
+password: danila121102;
+ 
